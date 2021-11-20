@@ -16,4 +16,4 @@ Load up the project using your favorite IDE.
 Version 0.1.0, Added First Test
 
 Pull Requests
-[Pull Request](https://github.com/MusaabShalaldeh/linear-regression/pull/1)
+[Pull Request](https://github.com/Tareq-Zeyad/linear-regression/pull/2)
